@@ -6,5 +6,7 @@ class Program
         Console.WriteLine("Hello, World!");
 
         Console.WriteLine("Hi there");
+
+        Console.WriteLine("Please help");
     }
 }
